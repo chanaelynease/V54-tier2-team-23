@@ -1,4 +1,4 @@
-# 📌 Project Name (AI Assistant)
+# 📌 Ember AI (AI Assistant)
 
 Your project's `readme` is as important to success as your code. For
 this reason you should put as much care into its creation and maintenance
