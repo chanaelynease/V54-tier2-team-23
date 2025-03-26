@@ -62,7 +62,7 @@ coding!
 
 - Vanshika Patel (UX/UI Developer): [GitHub](https://github.com/vanshika-99) / [LinkedIn](https://linkedin.com/in/vanshikapatel)
 
-### Scrum Mster
+### Scrum Master
 
 - Chanae Pickett Scrum Master: [GitHub](https://github.com/chanaelynease) / [LinkedIn](https://linkedin.com/in/chanaepickett)
 
